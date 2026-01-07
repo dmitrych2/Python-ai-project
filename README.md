@@ -58,6 +58,7 @@
 ---
 
 ## 📂 Структура проектаpython_ai_project
+```
 ├── Dockerfile
 ├── __pycache__
 │   ├── config.cpython-312.pyc
@@ -80,3 +81,4 @@
 ├── main.py
 ├── pyproject.toml
 └── uv.lock
+```
